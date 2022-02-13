@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Zhong LuFan 👋
 
-<!--
-**Hill-98/Hill-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+```php
+<?php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+define("PGP_KEY_ID", "8139C348345AB5D2");
+
+function about_me() {
+    return
+      "👨🏻 I'm a web developer, mostly using Javascript + PHP for development.".
+      "❤️ I love Linux and open source.".
+      "📚 I currently have a strong interest in Rust and am learning.";
+}
+```
