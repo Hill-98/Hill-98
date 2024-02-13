@@ -1,4 +1,4 @@
-## Hi there, I'm Zhong Lufan 👋
+## Hi there, I'm Zhong Lufan (钟路帆) 👋
 
 ```php
 <?php
